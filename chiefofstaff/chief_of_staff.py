@@ -7,7 +7,7 @@ slack_token = os.environ.get('CHIEF_OF_STAFF_SLACKBOT')
 
 client = slack.WebClient(token=slack_token)
 
-word = 'sardonic'
+word = 'moist'
 
 definition = mr.get_definition(word)
 example = mr.get_example(word)

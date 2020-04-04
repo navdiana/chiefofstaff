@@ -35,7 +35,3 @@ def get_example(word):
 
     return example
 
-
-
-
-
